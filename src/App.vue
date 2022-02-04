@@ -8,7 +8,7 @@
 import Todo from './components/Todo.vue'
 
 export default {
-  name: 'Dor',
+  name: 'Dordordor',
   components: {
     Todo
   }
